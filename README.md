@@ -1,4 +1,4 @@
-# Markov Chains Generator
+# Markov Chain Generator
 A transition matrix can be calculated based on a training sequence (ex. <a href='https://github.com/Gagniuc/Discrete-Probability-Detector'>1</a>, <a href='https://github.com/Gagniuc/Discrete-Probability-Detector-JS'>2</a>, <a href='https://github.com/Gagniuc/Discrete-Probability-Detector-in-VB6'>3</a>). A Markov Chains Generator (MCG) is a prediction machine that uses a transition matrix to generate sequences that are similar to the training sequence. Thus, the output of a MCG mimics the training sequence that led to the values from the transition matrix and the process itself represents a prediction.
 
 # Live demo
