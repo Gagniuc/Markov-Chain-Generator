@@ -1,5 +1,5 @@
 # Markov Chains Generator
-Markov Chains Generator
+A Markov Chains Generator (MCG) is a prediction machine that uses a transition matrix to generate sequences that are similar to the training sequence. Thus, the output of a MCG mimics the training sequence that led to the values from the transition matrix and the process itself represents a prediction.
 
 # Live demo
 https://gagniuc.github.io/Markov-Chains-Generator/
