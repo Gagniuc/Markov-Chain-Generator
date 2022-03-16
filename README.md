@@ -8,7 +8,7 @@ https://gagniuc.github.io/Markov-Chain-Generator/
 
 # Screenshot
 
-![screenshot](https://github.com/Gagniuc/Markov-Chains-Generator/blob/main/Markov%20Chains%20Generator.png)
+![screenshot](https://github.com/Gagniuc/Markov-Chain-Generator/blob/main/mcg.png?raw=true)
 
 # References
 
